@@ -8,5 +8,9 @@ Visual Anomaly Detection can be tested signing up for an Enterprise Trial https:
 # Hardware
 Texas Instruments TDA4VM
 
+# Demo
+
+https://www.youtube.com/watch?v=tAHMB0Fkmtk
+
 # Contact
 Roni Bandini @RoniBandini
