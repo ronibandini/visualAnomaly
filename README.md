@@ -15,4 +15,6 @@ Texas Instruments TDA4VM
 [https://www.youtube.com/watch?v=tAHMB0Fkmtk ](https://www.youtube.com/watch?v=UckRoZBy8vk
 
 # Contact
-Roni Bandini @RoniBandini
+Edge Machine Learning / TinyML Projects
+https://x.com/RoniBandini
+https://www.instagram.com/ronibandini/
